@@ -53,6 +53,7 @@ The raw dataset contained inconsistencies that required preprocessing before ana
 
 # Project Analysis Dashboard
 <img width="1310" height="732" alt="image" src="https://github.com/user-attachments/assets/2b2fe1e9-0467-4906-af10-60528484dc7a" />
+
 # Skills Demonstrated
 - Data Cleaning
 - Data Analysis
