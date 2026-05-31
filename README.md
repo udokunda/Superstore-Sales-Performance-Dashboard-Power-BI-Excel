@@ -14,13 +14,6 @@ Microsoft Excel – Data cleaning and preparation
 Power BI – Data visualization and dashboard development
 DAX – KPI and business metric calculations
 
-# Data Preparation
-## The dataset was cleaned by:
-- Checking and removing duplicate records
-- Standardizing date formats
-- Handling null values
-- Validating data consistency before analysis
-
 ## Key Metrics
 - Total Sales
 - Total Profit
